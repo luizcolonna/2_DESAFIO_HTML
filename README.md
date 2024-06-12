@@ -1,0 +1,1 @@
+Este site é de uma cliníca fantasia chamada "PéSaudável Clínica Podológica" e tem como objetivo demonstrar os conhecimentos obtidos através do segundo módulo do curso de html através da plataforma DIO. 
